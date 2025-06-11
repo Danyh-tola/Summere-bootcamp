@@ -1,0 +1,51 @@
+File Manifest for ICPSR 38872
+
+United States. Bureau of Justice Statistics. Police-Public Contact Survey,
+2022. ICPSR38872-v1. Ann Arbor, MI: Inter-university Consortium for
+Political and Social Research [distributor], 2024-10-03.
+http://doi.org/10.3886/ICPSR38872.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38872-descriptioncitation.pdf       -       -         -       2024-10-03  -
+
+    38872-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Police-Public Contact Survey, 2022
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38872-0001-Codebook-ICPSR.pdf       -       -         -       2024-10-03  37d82d220736b9b7d6c321c21009a857
+
+    38872-0001-Data.dta                 -       130,122   277     2024-10-03  373d1de9c38d78474915dba7bc26e48b
+
+    38872-0001-Data.rda                 -       130,122   277     2024-10-03  4da416c1059a9451534fa8bc6e72f55f
+
+    38872-0001-Data.sav                 -       130,122   277     2024-10-03  05946bd61211a4376db900918f7fe513
+
+    38872-0001-Data.stc                 -       130,122   277     2024-10-03  4a7e025b5e7c733c448799364ab53beb
+
+    38872-0001-Data.tsv                 -       130,122   277     2024-10-03  51178cc2a758a6cb9611c0cb19248b2e
+
+    38872-0001-Data.txt                 472     130,122   277     2024-10-03  327d34c9c24ef0e6e5833b5c5e3803c7
+
+    38872-0001-Setup.dct                -       -         -       2024-10-03  a30a8d0be85044266da0e8f0f0b40eb9
+
+    38872-0001-Setup.do                 -       -         -       2024-10-03  ad9fe6a265c333b3919c59ee11913332
+
+    38872-0001-Setup.sas                -       -         -       2024-10-03  e83ad38a88d5091bad2aad1888ce579b
+
+    38872-0001-Setup.sps                -       -         -       2024-10-03  b1ecc6cface71fc40f34029c3b2fde20
+
+    38872-0001-Supplemental_syntax.do   -       -         -       2024-10-03  7ea88276883b0145414984567f95110f
+
+    38872-0001-Supplemental_syntax.sas  -       -         -       2024-10-03  c2e1c088983cf75fe03b033783ed47fc
+
+    38872-0001-User_guide.pdf           -       -         -       2024-10-03  8f36e0c9914abbf7112e74a0ae989a53
+
